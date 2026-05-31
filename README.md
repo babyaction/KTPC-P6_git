@@ -1,1 +1,1 @@
-# KTPC-P6_git
+# first-repository
